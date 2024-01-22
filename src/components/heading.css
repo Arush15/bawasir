@@ -6,20 +6,19 @@
     width: 100vw;
     margin-top: 15px;
     font-family: 'Roboto', sans-serif;
-    background-color: #41b3a3; /* Roboto or your preferred font */
-}
+    background-color: #41b3a3; 
 
 .paragraph {
     width: 60vw;
-    color: darkblue; /* Light theme color */
+    color: darkblue; 
     margin: 10px 0px;
     font-family: 'Roboto', sans-serif;
 }
 
 .heading {
-    color: moccasin; /* Light theme color */
+    color: moccasin; 
     align-self: flex-start;
-    font-weight: bold; /* Bold font for heading */
+    font-weight: bold; 
 }
 
 img {
